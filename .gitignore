@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+db.sqlite3
+
+# Ignore environment variables
+.env
+
+# Ignore compiled & node_modules
+node_modules/
