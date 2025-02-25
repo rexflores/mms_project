@@ -1,7 +1,10 @@
 # Core Django dependencies
 Django>=4.2
 djangorestframework>=3.14
+django-cors-headers>=4.0.2
+qrcode
 mysqlclient>=2.2.0  # MySQL connector for Django
+mysql-connector-python
 
 # Authentication & Security
 django-allauth>=0.56.1  # Optional if using email-based authentication
